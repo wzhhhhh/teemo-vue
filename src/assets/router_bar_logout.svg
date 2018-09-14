@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu" transform="translate(-25.000000, -848.000000)" fill="#FFFFFF">
+            <g id="退出登录(1)">
+                <g transform="translate(17.000000, 840.000000)">
+                    <path d="M14.2222273,15.7777727 L15.7777727,15.7777727 L15.7777727,8 L14.2222273,8 L14.2222273,15.7777727 Z M19.53452,9.68779846 L18.4300112,10.7922389 C19.6589572,11.7799895 20.4444774,13.2967067 20.4444774,15 C20.4444774,18.0100554 18.0100554,20.4444774 15,20.4444774 C11.9900358,20.4444774 9.55554543,18.0100554 9.55554543,15 C9.55554543,13.2967067 10.3411339,11.7799895 11.5622642,10.7844915 L10.4655712,9.68779846 C8.95666978,10.9711588 8,12.8689351 8,15 C8,18.8656213 11.1344926,22 15,22 C18.8656213,22 22,18.8656213 22,15 C22,12.8689351 21.0433302,10.9711588 19.53452,9.68779846 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
